@@ -4,6 +4,6 @@
 
 <div align="center">
 
-<img src="https://github.com/LumenWang/Files/raw/master/author.png" height='500' width='800'>
+<img src="https://github.com/LumenWang/Files/raw/master/author.png" height='300' width='550'>
 
 </div>
